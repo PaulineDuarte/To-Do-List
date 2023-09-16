@@ -7,6 +7,6 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- REACT
+- Javascript
 - HTML E CSS
 - Git e Github
