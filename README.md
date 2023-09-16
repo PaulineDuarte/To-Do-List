@@ -8,5 +8,5 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Javascript
-- HTML E CSS
+- HTML e CSS
 - Git e Github
